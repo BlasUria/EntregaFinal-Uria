@@ -1,0 +1,63 @@
+.fondoIndex{
+    background-image: url(../images/fondo3.jpg);
+        .subTitulo{
+            font-family: $fontFamily2;
+            color: $colorDos;
+        }
+    }
+
+.fondoIndex{
+    .cont{
+        .row{
+            div{
+                .colorPropio{
+                    background-image: url(../images/fondo3.jpg);
+                    .animacion{
+                        transition: all 1s ease;
+                        &:hover{
+                            transform: scale(1.07, 1);
+                        }
+                    }
+                    div{
+                        .colorLetra{
+                            font-family: $fontFamily3;
+                            color: $colorDos;
+                        }
+                    } 
+                }
+            }
+        }
+    }
+}
+
+.fondoIndex{
+    .fondoLista{
+        .fondo{
+            background-color: black;
+        }
+        .colorLetraDos{
+            color: $colorDos;
+            font-family: $fontFamily4;
+        }
+        div{
+            div{
+                div{
+                    h3{
+                        .colorLetra{
+                            font-family: $fontFamily3;
+                            color: $colorDos;
+                        }
+                    }
+                    div{
+                        div{
+                            .colorLetra{
+                                font-family: $fontFamily3;
+                                color: $colorDos;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
