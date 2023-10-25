@@ -20,8 +20,7 @@
                     }
                     div{
                         .colorLetra{
-                            font-family: $fontFamily3;
-                            color: $colorDos;
+                            @include coloresLetra
                         }
                     } 
                 }
@@ -36,23 +35,20 @@
             background-color: black;
         }
         .colorLetraDos{
-            color: $colorDos;
-            font-family: $fontFamily4;
+            @include coloresLetraDos
         }
         div{
             div{
                 div{
                     h3{
                         .colorLetra{
-                            font-family: $fontFamily3;
-                            color: $colorDos;
+                            @include coloresLetra
                         }
                     }
                     div{
                         div{
                             .colorLetra{
-                                font-family: $fontFamily3;
-                                color: $colorDos;
+                                @include coloresLetra
                             }
                         }
                     }

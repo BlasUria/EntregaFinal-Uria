@@ -1,0 +1,9 @@
+@mixin coloresLetra () {
+    color: $colorDos;
+    font-family: $fontFamily3;
+}
+
+@mixin coloresLetraDos () {
+    color: $colorDos;
+    font-family: $fontFamily4;
+}

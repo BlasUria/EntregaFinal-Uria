@@ -21,8 +21,8 @@ header nav div div ul .titulo {
   width: 200px;
 }
 header nav div div ul .colorLetra {
-  font-family: Arial, Helvetica, sans-serif;
   color: rgb(133, 57, 57);
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 footer {
@@ -113,8 +113,8 @@ footer {
   transform: scale(1.07, 1);
 }
 .fondoIndex .cont .row div .colorPropio div .colorLetra {
-  font-family: Arial, Helvetica, sans-serif;
   color: rgb(133, 57, 57);
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .fondoIndex .fondoLista .fondo {
@@ -125,12 +125,12 @@ footer {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 .fondoIndex .fondoLista div div div h3 .colorLetra {
-  font-family: Arial, Helvetica, sans-serif;
   color: rgb(133, 57, 57);
+  font-family: Arial, Helvetica, sans-serif;
 }
 .fondoIndex .fondoLista div div div div div .colorLetra {
-  font-family: Arial, Helvetica, sans-serif;
   color: rgb(133, 57, 57);
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .fondoTurnos {
@@ -166,8 +166,8 @@ footer {
   background-image: url(../images/gymAPP.jpg);
 }
 .fondoApp .colorLetra {
-  font-family: Arial, Helvetica, sans-serif;
   color: rgb(133, 57, 57);
+  font-family: Arial, Helvetica, sans-serif;
 }
 .fondoApp .colorLetraDos {
   color: rgb(133, 57, 57);
@@ -189,8 +189,8 @@ footer {
   color: rgb(133, 57, 57);
 }
 .fondoApp section .colorLetra {
-  font-family: Arial, Helvetica, sans-serif;
   color: rgb(133, 57, 57);
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .beneficioContenedor {
@@ -375,12 +375,12 @@ footer {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 .fondoFrecuentes div div div h2 .colorLetra {
-  font-family: Arial, Helvetica, sans-serif;
   color: rgb(133, 57, 57);
+  font-family: Arial, Helvetica, sans-serif;
 }
 .fondoFrecuentes div div div div div .colorLetra {
-  font-family: Arial, Helvetica, sans-serif;
   color: rgb(133, 57, 57);
+  font-family: Arial, Helvetica, sans-serif;
 }
 .fondoFrecuentes section .tamanoLetra {
   font-size: 150%;

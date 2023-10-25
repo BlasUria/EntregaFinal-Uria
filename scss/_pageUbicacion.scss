@@ -1,12 +1,10 @@
 .fondoApp{
     background-image: url(../images/gymAPP.jpg);
     .colorLetra{
-        font-family: $fontFamily3;
-        color: $colorDos;
+        @include coloresLetra
     }
     .colorLetraDos{
-        color: $colorDos;
-        font-family: $fontFamily4;
+        @include coloresLetraDos
     }
     .ubicacion{
         width: 100%;

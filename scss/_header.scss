@@ -17,8 +17,7 @@ header {
                         width: 200px;
                     }
                     .colorLetra{
-                        font-family: $fontFamily3;
-                        color: $colorDos;
+                        @include coloresLetra
                     }
                 }
             }

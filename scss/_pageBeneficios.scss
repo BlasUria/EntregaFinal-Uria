@@ -6,8 +6,7 @@
     }
     section{
         .colorLetra{
-            font-family: $fontFamily3;
-            color: $colorDos;
+            @include coloresLetra
         }
     }
 }
